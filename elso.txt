@@ -4,3 +4,5 @@ harmadik sor
 negyedik sor
 ötödik sor
 hatodik sor
+7.
+8.
