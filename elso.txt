@@ -2,3 +2,5 @@ valami
 masodik sor
 harmadik sor
 negyedik sor
+ötödik sor
+hatodik sor
